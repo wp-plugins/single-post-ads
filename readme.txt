@@ -25,8 +25,10 @@ Features
 
 1. Upload entire list-post-authors-plus folder to `/wp-content/plugins/` directory
 2. Activate the plugin from the Plugins menu in WordPress
-3. To include the ad into your post, navigate to Settings >> Single Post Ads. Select if you want to include your ad automatically after the content on all posts or if you will manually add it to your post.
-4. If using manual method, in the post or page editor screen, you should see a box named Single Post Ad under the post editor. Simply add your banner ad, Adsense codes or your call to actions here. Basic HTML allowed.
+3. Navigate to Settings >> Single Post Ads. Select if you want to include your ad automatically after the content on all posts or if you will manually add it to your post.
+4. In the post or page editor screen, you should see a box named Single Post Ad under the post editor. Simply add your banner ad, Adsense codes or your call to actions here. Basic HTML allowed.
+5. If using manual method, simply enter the [tbpspa] shortcode anywhere inside the post.
+6. You may also use sidebar widgets to display the ad in your sidebar if you wish. This ad will only appear in the sidebar if the post has an ad in it.
 
 == Frequently Asked Questions ==
 
