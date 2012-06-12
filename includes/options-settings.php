@@ -107,7 +107,7 @@ function tbp_spa_get_option_parameters() {
 		'placement' => array(
           'name' => 'placement',
           'title' => 'Ad placement',
-          'description' => 'You can let the plugin automatically place the ad or do it manually using shortcodes',
+          'description' => 'You can let the plugin automatically place the ad or do it manually using the [tbpspa] shortcode',
           'section' => 'default_ad',
           'tab' => 'tbp_spa',
           'default' => 'bottom',
