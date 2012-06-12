@@ -15,11 +15,11 @@ This plugin lets you put banners, advertisements, promos and affiliate promos on
 This plugin lets you laser focus your banners, advertisements, promos and affiliate promos in relevant posts that you choose. When you put out a quality review or are talking about a specific product, people are more open and ready to checking out the product when you invite them to. Take it a step further. Make your call to action bolder or place a banner ad directly in that post instead of showing other ads that may not be relevant.
 
 Features
+
 * Use HTML or Javascript ads
 * Includes the option to fall back to a default advertisement if no ads are found for that post (optional)
 * Automatically place ads before, after content or using widgets
 * For finer control, you can choose to use a shortcode to include the ad directly into your post
-* Easy-insert shortcode button in the visual editor so you don’t have to remember the code
 
 == Installation ==
 
